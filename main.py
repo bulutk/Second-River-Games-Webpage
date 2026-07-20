@@ -1,4 +1,4 @@
-# Serves static pages for bulutk.com using a simple WSGI handler.
+# Serves static pages for Second River Games using a simple WSGI handler.
 
 import os
 from google.appengine.ext import webapp

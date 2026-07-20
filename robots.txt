@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://second-river-games.com/sitemap.xml
